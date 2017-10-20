@@ -15,10 +15,7 @@ Author: Christopher Ross
 
 # Photos
 
-<img src="200mm_150mm_mat.jpg" width=250 height=250 />
-<img src="200mm_150mm_mat_tools.jpg" width=333 height=250 />
-<img src="200mm_in_use.jpg" width=188 height=250 />
-<img src="200mm_printbed.jpg" width=188 height=250 />
+<img src="200mm_in_use.jpg" width=188 height=250 /> <img src="200mm_150mm_mat.jpg" width=250 height=250 /> <img src="200mm_150mm_mat_tools.jpg" width=333 height=250 /> <img src="200mm_printbed.jpg" width=188 height=250 />
 
 # G-Code Files
 
